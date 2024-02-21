@@ -1,0 +1,7 @@
+Model,Rouge_Scores,Length_of_Summary,Training_Time
+RoBERTa,0.77,133,10
+ELECTRA,0.79,137,11
+DistilBERT,0.72,125,7
+ALBERT,0.81,142,13
+GPT-2,0.76,132,9
+CTRL,0.74,128,8
