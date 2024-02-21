@@ -2,7 +2,7 @@
 
 ## Overview
 
-Text summarization is a crucial natural language processing task that involves condensing large documents into concise and informative summaries. This project focuses on comparing the performance of various text summarization models to help users choose the most suitable model for their specific needs.
+Text conversational is a crucial natural language processing task that involves condensing large documents into concise and informative summaries. This project focuses on comparing the performance of various text conversational models to help users choose the most suitable model for their specific needs.
 
 ## Key Features:
 
@@ -18,7 +18,7 @@ ELECTRA,
 DistilBERT,
 ALBERT,
 GPT-2,
-CTRL are included in the comparison. These models are widely used in text summarization tasks.
+CTRL are included in the comparison. These models are widely used in text conversational tasks.
 
 ## Project Structure:
 
@@ -28,7 +28,7 @@ CTRL are included in the comparison. These models are widely used in text summar
 
 ## Results and Analysis:
 1. **Ranked Table:**
-- Explore detailed ranked results in summarization_table_result.csv:
+- Explore detailed ranked results in conversational_table_result.csv:
 
 | **Model**   | **Rouge Scores**  | **Length of Summary** | **Training Time** |
 |-------------|-------------------|-----------------------|-------------------|
@@ -51,4 +51,4 @@ ELECTRA and ALBERT offer a balanced trade-off between Rouge scores and efficienc
 Next Steps:
 Feel free to analyze the provided CSV files for more insights.
 Consider adjusting the evaluation metrics or adding new models based on your specific use case.
-Use the project as a foundation for ongoing research and development in text summarization.
+Use the project as a foundation for ongoing research and development in text conversational.
